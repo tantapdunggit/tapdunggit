@@ -39,7 +39,7 @@ int headCol = 4, headRow = 4; // head
 int tailRow = 3, tailCol = 4; // tail
 int apple = 0;
 int headDir = DIR_NO, tailDir = DIR_DOWN; // set direction
-
+int abc;
 int main() {
     createBoundary();
     createSnake();

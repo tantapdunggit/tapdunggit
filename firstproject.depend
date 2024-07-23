@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1721548719 source:c:\users\verzo\documents\new folder\firstproject\main.c
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+
